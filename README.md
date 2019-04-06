@@ -8,4 +8,4 @@ The images are located in the images folder and the calibration matrix is given 
 
 ![K_matrix](K_matrix.png)
 
-Result is present in Report.pdf
+Results are present in Report.pdf
